@@ -1,0 +1,11 @@
+.air {
+  background: #ccc;
+}
+
+.ball {
+  position: relative;
+  background: #333;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
